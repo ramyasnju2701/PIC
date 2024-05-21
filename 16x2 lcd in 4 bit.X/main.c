@@ -1,4 +1,4 @@
-#include <xc.h>                    //header file
+#include <xc.h>                    //this line represents the header file
 #define _XTAL_FREQ 20000000
 #pragma config FOSC = HS        // Oscillator Selection bits (HS oscillator)
 #pragma config WDTE = OFF       // Watchdog Timer Enable bit (WDT disabled)
